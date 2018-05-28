@@ -10,6 +10,16 @@
     "start": "npm run dev",
     "build": "node build/build.js"
   },
+  "repository": {
+    "url": "https://github.com/bakabird/rdd.todo-dashboard",
+    "type": "git"
+  },
+  "keywords": ["cool", "useful", "stuff"],
+  "bugs": "https://github.com/bakabird/rdd.todo-dashboard/issues",
+  "files": [
+    "src/App.vue"
+  ],
+  "license": "MIT",
   "dependencies": {
     "store": "^2.0.12",
     "vue": "^2.5.2"
