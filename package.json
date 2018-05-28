@@ -1,9 +1,8 @@
 {
   "name": "rdd.todo-dashboard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Vue.js project",
   "author": "bakabird <bakabird@sina.cn>",
-  "private": true,
   "main": "./src/App.vue",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
@@ -14,7 +13,11 @@
     "url": "https://github.com/bakabird/rdd.todo-dashboard",
     "type": "git"
   },
-  "keywords": ["cool", "useful", "stuff"],
+  "keywords": [
+    "cool",
+    "useful",
+    "stuff"
+  ],
   "bugs": "https://github.com/bakabird/rdd.todo-dashboard/issues",
   "files": [
     "src/App.vue"
